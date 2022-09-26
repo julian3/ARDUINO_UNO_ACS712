@@ -9,10 +9,12 @@ Uses alpha-beta smoothing algorithm on data read from the ACS712 to eliminate pe
 applies an error correction factor, from 0.93 to 0.985, to fix readings. You might not need this
 last set of fixings, I added them based on my measurement of known load.
 
+```
 ACS712-30 (front view)
    1 2 3 
    + D -
-   
+```
+
 PINOUT (Using A4 pin on Arduino)
    Arduino A4 <-> ACS712 PIN2
 
