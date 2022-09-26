@@ -14,7 +14,7 @@
  *    + D -
  *    
  * PINOUT
- *    Arduino A0 <-> ACS712 PIN2
+ *    Arduino A4 <-> ACS712 PIN2
  * 
  * @version 0.1 30-03-2021 
  * @version 0.11 30-08-2022 code cleanup
